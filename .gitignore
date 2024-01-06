@@ -1,0 +1,8 @@
+Parser/*.o
+Parser/main
+Scanner/*.o
+Scanner/main
+Scope_Management/*.o
+Scope_Management/main
+Type_checking/*.o
+Type_checking/main
