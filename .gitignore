@@ -6,3 +6,5 @@ Scope_Management/*.o
 Scope_Management/main
 Type_checking/*.o
 Type_checking/main
+Scanner_ver_2/*.o
+Scanner_ver_2/main
