@@ -483,7 +483,7 @@ Token *getToken(void)
     return getToken();
   case 3:
   {
-    ln - lineNo;
+    ln = lineNo;
     cn = colNo;
     int count = 1;
     str[0] = (char)currentChar;
